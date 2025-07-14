@@ -12,8 +12,8 @@
 
 ## 📂 Portfolio Projects
 
-🔹 [🏃 Sports Statistics App](https://github.com/nikolahristov/sports-statistics-app)  
-A Spring Boot application for managing athletics and swimming disciplines, complete with user login, comments, Cloudinary integration, and role-based access.
+🔹 [🏃 Sports Statistics App (Live Demo)](https://sportsapp-4.onrender.com/)  
+🔗 [GitHub Repository](https://github.com/NicolaHristov/SportsApp)
 
 🔹 [💬 Commenting Platform](https://github.com/nikolahristov/commenting-app)  
 A lightweight MVC web app that allows logged-in users to leave comments on sports records and view champion info.
