@@ -19,10 +19,10 @@ A Spring Boot application for managing athletics and swimming disciplines. Featu
 
 ## 📈 GitHub Stats
 
-![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolahristov&show_icons=true&theme=default)
+![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolahristov&show_icons=true&theme=default)
 
 ## 🌐 Find me around the web
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nikolahristov)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikola-hristov-54800236a/)
 - 🌍 [Portfolio Website](https://sportsapp-4.onrender.com/)
 - ✉️ Email: swimmingman23@abv.bg
