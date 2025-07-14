@@ -13,10 +13,9 @@
 ## 📂 Portfolio Projects
 
 🔹 [🏃 Sports Statistics App (Live Demo)](https://sportsapp-4.onrender.com/)  
-🔗 [GitHub Repository](https://github.com/NicolaHristov/SportsApp)
+🔗 [GitHub Repository](https://github.com/nicolahristov/SportsApp)
 
-🔹 [💬 Commenting Platform](https://github.com/nikolahristov/commenting-app)  
-A lightweight MVC web app that allows logged-in users to leave comments on sports records and view champion info.
+A Spring Boot application for managing athletics and swimming disciplines. Features include user registration and login, role-based access, Cloudinary image integration, discipline pages with champion and world record information, and a commenting system available for logged-in users.
 
 ## 📈 GitHub Stats
 
