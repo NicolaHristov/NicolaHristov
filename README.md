@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Nikola Hristov
 
-<!--
-**NicolaHristov/NicolaHristov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Java Developer**  
+💡 Passionate about backend development, Spring Boot, and clean architecture  
+🚀 Currently working on real-world portfolio projects  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java • Spring Boot • Hibernate • MySQL  
+- HTML • CSS • Git • GitHub  
+- IntelliJ IDEA  • Flyway
+
+## 📂 Portfolio Projects
+
+🔹 [🏃 Sports Statistics App](https://github.com/nikolahristov/sports-statistics-app)  
+A Spring Boot application for managing athletics and swimming disciplines, complete with user login, comments, Cloudinary integration, and role-based access.
+
+🔹 [💬 Commenting Platform](https://github.com/nikolahristov/commenting-app)  
+A lightweight MVC web app that allows logged-in users to leave comments on sports records and view champion info.
+
+## 📈 GitHub Stats
+
+![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolahristov&show_icons=true&theme=default)
+
+## 🌐 Find me around the web
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikolahristov)
+- 🌍 [Portfolio Website](https://sportsapp-4.onrender.com/)
+- ✉️ Email: swimmingman23@abv.bg
