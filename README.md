@@ -6,8 +6,6 @@
 
 ## 🛠️ Technologies & Tools
 
-## 🛠️ Technologies & Tools
-
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%234895C2.svg?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -33,7 +31,7 @@ A Spring Boot application for managing athletics and swimming disciplines. Featu
 
 ## 🧠 Currently & Availability
 
-- 🎯 **Currently learning:** Spring Security, Docker, CI/CD basics  
+- 🎯 **Currently learning:** Spring Security
 - 👀 **Open to work:** Junior Java Developer roles (remote or on-site)  
 - 📌 **Fun fact:** I enjoy building sports-related web apps — and since the beginning of this year, I’ve also been learning to play the traditional Bulgarian bagpipe (gaida)!
 
