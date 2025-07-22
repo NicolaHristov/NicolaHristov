@@ -43,5 +43,5 @@ A Spring Boot application for managing athletics and swimming disciplines. Featu
 ## 🌐 Find me around the web
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikola-hristov-54800236a/)
-- 🌍 [Portfolio Website](https://sportsapp-4.onrender.com/)
+- 🌍 [Portfolio Website](https://sportsapp-web.onrender.com)
 - ✉️ Email: swimmingman23@abv.bg
