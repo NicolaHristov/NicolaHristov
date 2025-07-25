@@ -24,10 +24,85 @@
 
 ## 📂 Portfolio Projects
 
-🔹 [🏃 Sports Statistics App (Live Demo)](https://sportsapp-4.onrender.com/)  
+🔹 [🏃 Sports Statistics App (Live Demo)](https://sportsapp-web.onrender.com/)  
 🔗 [GitHub Repository](https://github.com/nicolahristov/SportsApp)
 
-A Spring Boot application for managing athletics and swimming disciplines. Features include user registration and login, role-based access, Cloudinary image integration, discipline pages with champion and world record information, and a commenting system available for logged-in users.
+A full-stack Spring Boot web application for managing athletics and swimming disciplines. Features include user registration and login, role-based access control, Cloudinary image integration, champion and world record pages, and a commenting system for logged-in users.
+The app is deployed to Render and uses PlanetScale as a production-ready cloud MySQL database. Schema migrations are managed by Flyway to ensure consistency across environments and support version control of the database structure.
+
+
+## 🔧 Getting Started
+
+To run this project locally, follow these steps:
+
+### ✅ Prerequisites
+
+- Java 17 or higher  
+- Maven  
+- Git  
+- MySQL database or PlanetScale account (for cloud deployment)
+
+---
+
+### 📦 Clone the Repository
+
+```bash
+git clone https://github.com/nicolahristov/SportsApp.git
+cd SportsApp
+``` 
+
+### ⚙️ Configuration Setup
+
+Create the following configuration files in the root directory (they are excluded via `.gitignore`):
+
+#### `application-secret.yml`
+
+```yaml
+cloudinary:
+  cloud-name: YOUR_CLOUD_NAME
+  api-key: YOUR_API_KEY
+  api-secret: YOUR_API_SECRET
+
+admin:
+  email: YOUR_ADMIN_EMAIL
+  username: YOUR_ADMIN_USERNAME
+  password: YOUR_SECURE_PASSWORD
+``` 
+
+#### `.env` *(optional)*
+
+```properties
+# You can use this to override secret values locally if needed
+You can choose between two profiles depending on the environment:
+```
+
+### ☁️ Option 1: Run with PlanetScale
+
+This is the default and recommended setup to simulate a production environment:
+```
+
+```bash
+mvn spring-boot:run -Dspring.profiles.active=planetscale
+```
+Make sure application-planetscale.yml contains your JDBC URL, username, and password for PlanetScale.
+
+### 🛠️ Option 2: Run Locally with MySQL
+
+If you prefer to use a local MySQL server:
+
+```bash
+mvn spring-boot:run -Dspring.profiles.active=mysql
+```
+The local database will auto-create if it doesn't exist. Update credentials in application-mysql.yml if needed.
+
+### 🌍 Access the App
+
+Once the app is running, open:
+
+[http://localhost:8080](http://localhost:8080)
+
+You can register a new user or use your predefined admin credentials from application-secret.yml.
+
 
 ## 🧠 Currently & Availability
 
