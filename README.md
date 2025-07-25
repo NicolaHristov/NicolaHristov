@@ -30,6 +30,22 @@
 A full-stack Spring Boot web application for managing athletics and swimming disciplines. Features include user registration and login, role-based access control, Cloudinary image integration, champion and world record pages, and a commenting system for logged-in users.
 The app is deployed to Render and uses PlanetScale as a production-ready cloud MySQL database. Schema migrations are managed by Flyway to ensure consistency across environments and support version control of the database structure.
 
+## 🖼️ Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login-page.png)
+
+### 📝 Register Page
+![Register Page](screenshots/register-page.png)
+
+### 🏃 Athletics Page
+![Athletics Page](screenshots/athletics-page.png)
+
+### 🏊 Swimming Page
+![Swimming Page](screenshots/swimming-page.png)
+
+### 🏅 Swimming 50m Champion
+![Swimming 50 Page](screenshots/swimming-50-page.png)
 
 ## 🔧 Getting Started
 
